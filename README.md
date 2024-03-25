@@ -13,9 +13,6 @@ Can be found in [RELEASE_NOTES](RELEASE_NOTES.md).
 ## Authors
 * Alexander Karmazyn  - [AveEg0](https://github.com/AveEg0)
 
-## Acknowledgments
-...
-
 ## Contributing
 Please, follow [Contributing](CONTRIBUTING.md) page.
 
